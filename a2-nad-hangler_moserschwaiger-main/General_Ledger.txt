@@ -1,0 +1,13 @@
+4
+12 Ben -> Cathy
+4 Ben -> Julia
+35 Ben -> Cathy
+          Lorem Ipsum is simply a dummy text
+          of the printing and typesetting
+          industry. Lorem Ipsum has been the
+          industry's standard dummy text ever
+          since the 1500s.
+50 Cathy -> Ben
+          Beispiel Text. Example input with
+          many different and very long words.
+          But it still works.s

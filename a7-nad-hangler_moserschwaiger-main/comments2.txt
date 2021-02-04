@@ -1,0 +1,10 @@
+# hangler_moserschwaiger
+### A1 
+### A2 
+### A3 please do not submit .class files
+### A4 a) linkedMedia, missing func/attrib; b) name is static; wrong multiplicity, C1 must overwrite m(); c)ok
+### A5 no LIFO-functionality tested
+### A6 most of the code in MineFieldA6 should probably be somewhere else; getShortestDistance could be largely simplified.
+### A7 
+### A8 
+### A9 

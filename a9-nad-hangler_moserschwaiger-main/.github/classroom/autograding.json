@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "A9 Tests",
+      "setup": "mvn compile",
+      "run": "mvn test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

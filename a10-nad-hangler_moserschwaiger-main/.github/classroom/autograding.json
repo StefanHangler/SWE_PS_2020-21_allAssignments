@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Reader, local",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=MorseTranslatorTest,A10MainReaderTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Reader, remote",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=Remote_A10MainReaderTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Writer, local",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=RTO13TranslatorTest,A10MainWriterTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Writer, remote",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=Remote_A10MainWriterTest test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
